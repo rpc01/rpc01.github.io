@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Financial Markets Analysis and Learnings"
 title_separator          : "-"
 name                     : "Ramon Prat"
-description              : "Financial Markets Analysis and Learnings"
+description              : "Blog with analysis on current topics in Finance and Financial Markets"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
