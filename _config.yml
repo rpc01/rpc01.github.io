@@ -78,9 +78,9 @@ analytics:
 # Site Author
 author:
   name             : "Ramon Prat"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  avatar           : 
+  bio              : "Quantitative Finance | Risk Management"
+  location         : "Calaf - SPAIN"
   email            :
   uri              :
   bitbucket        :
